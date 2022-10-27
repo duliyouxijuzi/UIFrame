@@ -41,3 +41,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: MainMenu
+    uniqueID: 2878659929
+    locked: 0
+  - name: Home
+    uniqueID: 2544240201
+    locked: 0
+  - name: Pop
+    uniqueID: 1080093111
+    locked: 0
