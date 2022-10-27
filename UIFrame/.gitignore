@@ -1,0 +1,13 @@
+.vs
+obj
+Library
+/Temp
+*.csproj
+*.sln
+Log/*.*
+ProjectVersion.txt
+Cache
+Logs/Packages-Update.log
+Assets/Editor/LocalizationTmp.txt
+Assets/Editor/LocalizationTmp.txt.meta
+.vsconfig
